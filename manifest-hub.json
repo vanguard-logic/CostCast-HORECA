@@ -1,0 +1,29 @@
+{
+ "id": "hub.html",
+ "name": "Cost-Cast HORECA Hub",
+ "short_name": "Cost-Cast HORECA Hub",
+ "description": "Precision Costing & Cost Control · Vanguard Logic Development",
+ "start_url": "hub.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#10306f",
+ "theme_color": "#10306f",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
